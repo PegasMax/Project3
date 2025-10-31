@@ -5,3 +5,7 @@ def func ():
 
 def fuo():
     pass
+
+
+def banzai():
+    print("Андрюха, ты готов к банзаю?")
